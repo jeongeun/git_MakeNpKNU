@@ -1,0 +1,7 @@
+----- Begin Fatal Exception 05-Mar-2017 13:48:18 KST-----------------------
+An exception of category 'ConfigFileReadError' occurred while
+   [0] Processing the python configuration file named makeNpKNU_80X_reMiniAOD.py
+Exception Message:
+python encountered the error: <type 'exceptions.IOError'>
+[Errno 2] No such file or directory: 'makeNpKNU_80X_reMiniAOD.py'
+----- End Fatal Exception -------------------------------------------------

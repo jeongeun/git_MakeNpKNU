@@ -1,0 +1,49 @@
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH3_reMiniaod_0.root hEff_EB_RunH3_reminiaod.root >& leff_eb_RunH3_rem.log&
+
+./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH3_reMiniaod_0.root hEff_EE_RunH3_reminiaod_0.root >& leff_ee_RunH3_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunF_reMiniaod_0.root hEff_EE_RunF_reminiaod_0.root >& leff_ee_RunF_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunD_reMiniaod_0.root hEff_EE_RunD_reminiaod_0.root >& leff_ee_RunD_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunB_reMiniaod_0.root hEff_EE_RunB_reminiaod_0.root >& leff_ee_RunB_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_0.root hEff_EE_RunH2_reminiaod_0.root >& leff_ee_RunH2_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_1.root hEff_EE_RunH2_reminiaod_1.root >& leff_ee_RunH2_rem_1.log&
+#
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunF_reMiniaod_1.root hEff_EE_RunF_reminiaod_1.root >& leff_ee_RunF_rem_1.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_0.root hEff_EE_RunG_reminiaod_0.root >& leff_ee_RunG_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_1.root hEff_EE_RunG_reminiaod_1.root >& leff_ee_RunG_rem_1.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunD_reMiniaod_2.root hEff_EE_RunD_reminiaod_2.root >& leff_ee_RunD_rem_2.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_3.root hEff_EE_RunG_reminiaod_3.root >& leff_ee_RunG_rem_3.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_4.root hEff_EE_RunG_reminiaod_4.root >& leff_ee_RunG_rem_4.log&
+#
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_1.root hEff_EB_RunH2_reminiaod_1.root >& leff_eb_RunH2_rem_1.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_1.root hEff_EE_RunH2_reminiaod_1.root >& leff_ee_RunH2_rem_1.log&
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_2.root hEff_EB_RunH2_reminiaod_2.root >& leff_eb_RunH2_rem_2.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_2.root hEff_EE_RunH2_reminiaod_2.root >& leff_ee_RunH2_rem_2.log&
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_3.root hEff_EB_RunH2_reminiaod_3.root >& leff_eb_RunH2_rem_3.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_3.root hEff_EE_RunH2_reminiaod_3.root >& leff_ee_RunH2_rem_3.log&
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_4.root hEff_EB_RunH2_reminiaod_4.root >& leff_eb_RunH2_rem_4.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_4.root hEff_EE_RunH2_reminiaod_4.root >& leff_ee_RunH2_rem_4.log&
+
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_2.root hEff_EB_RunG_reminiaod_2.root >& leff_eb_RunG_rem_2.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_2.root hEff_EE_RunG_reminiaod_2.root >& leff_ee_RunG_rem_2.log&
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_3.root hEff_EB_RunG_reminiaod_3.root >& leff_eb_RunG_rem_3.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_3.root hEff_EE_RunG_reminiaod_3.root >& leff_ee_RunG_rem_3.log&
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_4.root hEff_EB_RunG_reminiaod_4.root >& leff_eb_RunG_rem_4.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunG_reMiniaod_4.root hEff_EE_RunG_reminiaod_4.root >& leff_ee_RunG_rem_4.log&
+#
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunF_reMiniaod_1.root hEff_EB_RunF_reminiaod_1.root >& leff_eb_RunF_rem_1.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunF_reMiniaod_1.root hEff_EE_RunF_reminiaod_1.root >& leff_ee_RunF_rem_1.log&
+#
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunE_reMiniaod_0.root hEff_EB_RunE_reminiaod.root >& leff_eb_RunE_rem.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunE_reMiniaod_0.root hEff_EE_RunE_reminiaod.root >& leff_ee_RunE_rem.log&
+#
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunD_reMiniaod_0.root hEff_EB_RunD_reminiaod_0.root >& leff_eb_RunD_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunD_reMiniaod_0.root hEff_EE_RunD_reminiaod_0.root >& leff_ee_RunD_rem_0.log&
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunB_reMiniaod_0.root hEff_EB_RunB_reminiaod_0.root >& leff_eb_RunB_rem_0.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunB_reMiniaod_0.root hEff_EE_RunB_reminiaod_0.root >& leff_ee_RunB_rem_0.log&
+#
+#./MakeEff_EB_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunC_reMiniaod_0.root hEff_EB_RunC_reminiaod.root >& leff_eb_RunC_rem.log&
+#./MakeEff_EE_03.exe 1 1 1 1 ./ntuples/NtreMiniaod/ntNpKNUdata_RunC_reMiniaod_0.root hEff_EE_RunC_reminiaod.root >& leff_ee_RunC_rem.log&
+#
+
+#dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/jelee/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_0.root
+

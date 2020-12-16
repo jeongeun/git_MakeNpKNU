@@ -1,0 +1,26 @@
+#!/bin/bash
+
+curPWD=`pwd`
+
+#cd /hcp/data/data02/jelee/Wprime13TeV/Moriond17/CMSSW_8_0_26_patch2/src/MakeNpKNU/
+numJob=8
+if [ "$1" != "" ]; then
+	numJob=$1
+fi
+
+cat << EOF > jobSubmit
+executable = runAllData.sh
+universe = vanilla
+output   = condorLog/lData_MB_\$(Cluster).\$(Process).out
+error    = condorLog/lData_MB_\$(Cluster).\$(Process).err
+log      = /dev/null
+should_transfer_files = yes
+#transfer_input_files = Test_trkIso_mc.exe #, libNpKNU.so
+when_to_transfer_output = ON_EXIT
+transfer_output_files = condorOut
+arguments =  \$(Process)
+queue $numJob 
+EOF
+condor_submit  jobSubmit
+
+cd $curPWD

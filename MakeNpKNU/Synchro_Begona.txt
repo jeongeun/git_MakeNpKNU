@@ -1,0 +1,200 @@
+Type 1: lumiWeight 1=1*1/1  : ./ntuples/NtreMiniaod/ntNpKNUdata_RunH2_reMiniaod_tot.root
+Running 0 % 0 / 166644285
+==> RunH 282037 Event 662241096 Lumi 358
+Mt 101.692GeV, mu 61.4558, met 44.2083, et/MET 1.39014, dPhi 2.69793
+Muon pt 61.4558 eta 2.38646 phi 1.01924 monQuality 0.0857634 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 8 nMatchedStations 4 nValidMuonHits 18 dz 0.00652385dxy 0.000344992 @@ momQuIN 0.0857634 TrkQual 1 dr_muPf -999 dr_chPf 4.90372 dpt_chPf -1.98673
+MET pt 44.2083 phi -1.67869 sumEt 1448.02 shiftedPt_JetEnup 43.9701 down 44.4603 Significance 3.39659 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662078748 Lumi 358
+Mt 100.98GeV, mu 55.0149, met 46.5088, et/MET 1.18289, dPhi 3.01995
+Muon pt 55.0149 eta -1.93469 phi 1.14196 monQuality 0.0262701 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 15 nMatchedStations 4 nValidMuonHits 22 dz 0.00242738dxy 0.00039646 @@ momQuIN 0.0262701 TrkQual 1 dr_muPf -999 dr_chPf 2.90647 dpt_chPf -1.96394
+MET pt 46.5088 phi -2.12128 sumEt 1023.15 shiftedPt_JetEnup 46.9411 down 46.0997 Significance 4.71948 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 660799612 Lumi 358
+Mt 104.602GeV, mu 57.8586, met 51.5692, et/MET 1.12196, dPhi 2.55628
+Muon pt 57.8586 eta 0.900062 phi 2.41821 monQuality 0.015918 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 11 nMatchedStations 3 nValidMuonHits 23 dz 0.00104069dxy -1.98012e-05 @@ momQuIN 0.015918 TrkQual 1 dr_muPf -999 dr_chPf 2.45343 dpt_chPf -1.97653
+MET pt 51.5692 phi -0.138061 sumEt 1745.7 shiftedPt_JetEnup 53.8134 down 49.3434 Significance 3.90439 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661573088 Lumi 358
+Mt 149.012GeV, mu 55.6509, met 105.481, et/MET 0.527591, dPhi 2.67106
+Muon pt 55.6509 eta 1.73813 phi 1.88074 monQuality 0.0204687 relTrkIsoR03 0.00552073 nValidPixelHits 3 nTrkLayers 15 nMatchedStations 3 nValidMuonHits 14 dz 0.00168546dxy 0.00122564 @@ momQuIN 0.0204687 TrkQual 1 dr_muPf -999 dr_chPf 3.96696 dpt_chPf -1.98173
+MET pt 105.481 phi -1.73139 sumEt 2690.62 shiftedPt_JetEnup 103.731 down 107.241 Significance 7.15721 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661552820 Lumi 358
+Mt 87.8534GeV, mu 53.2483, met 38.796, et/MET 1.37252, dPhi 2.62211
+Muon pt 53.2483 eta 0.995003 phi -2.77543 monQuality 0.0171521 relTrkIsoR03 0 nValidPixelHits 4 nTrkLayers 11 nMatchedStations 2 nValidMuonHits 21 dz -0.00147902dxy 0.000780698 @@ momQuIN 0.0171521 TrkQual 1 dr_muPf -999 dr_chPf 2.27931 dpt_chPf -1.95309
+MET pt 38.796 phi 0.885644 sumEt 1172.6 shiftedPt_JetEnup 38.7969 down 38.8151 Significance 3.26938 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662273664 Lumi 358
+Mt 107.563GeV, mu 60.3347, met 47.9398, et/MET 1.25855, dPhi 3.13873
+Muon pt 60.3347 eta 0.96487 phi -1.39518 monQuality 0.0170402 relTrkIsoR03 0.00334887 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 3 nValidMuonHits 31 dz -0.00206578dxy 0.00037965 @@ momQuIN 0.0170402 TrkQual 1 dr_muPf -999 dr_chPf 3.89264 dpt_chPf -1.9714
+MET pt 47.9398 phi 1.74927 sumEt 1548.22 shiftedPt_JetEnup 51.4922 down 44.4049 Significance 3.34047 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661586385 Lumi 358
+Mt 87.1491GeV, mu 53.4928, met 37.7001, et/MET 1.4189, dPhi 2.65308
+Muon pt 53.4928 eta -1.69876 phi -2.27733 monQuality 0.0246678 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 15 nMatchedStations 3 nValidMuonHits 19 dz 0.00150546dxy -0.00037434 @@ momQuIN 0.0246678 TrkQual 1 dr_muPf -999 dr_chPf 0.988069 dpt_chPf -1.97212
+MET pt 37.7001 phi 0.375751 sumEt 1504.68 shiftedPt_JetEnup 43.504 down 31.9541 Significance 1.09938 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661134923 Lumi 358
+Mt 141.495GeV, mu 64.4038, met 79.303, et/MET 0.812124, dPhi 2.85771
+Muon pt 64.4038 eta -0.777877 phi -2.01679 monQuality 0.012479 relTrkIsoR03 0.00455519 nValidPixelHits 3 nTrkLayers 13 nMatchedStations 4 nValidMuonHits 50 dz -0.00363472dxy -0.000611392 @@ momQuIN 0.012479 TrkQual 1 dr_muPf -999 dr_chPf 2.67017 dpt_chPf -1.96772
+MET pt 79.303 phi 0.840919 sumEt 1393.39 shiftedPt_JetEnup 79.5888 down 79.227 Significance 10.1688 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661801237 Lumi 358
+Mt 98.3646GeV, mu 57.6485, met 44.5749, et/MET 1.2933, dPhi 2.65227
+Muon pt 57.6485 eta 1.356 phi -0.597082 monQuality 0.0186632 relTrkIsoR03 0.0338736 nValidPixelHits 3 nTrkLayers 11 nMatchedStations 3 nValidMuonHits 21 dz 0.00623659dxy 0.000958955 @@ momQuIN 0.0186632 TrkQual 1 dr_muPf -999 dr_chPf 2.90409 dpt_chPf -1.9484
+MET pt 44.5749 phi 3.03383 sumEt 1386.75 shiftedPt_JetEnup 44.3874 down 44.8221 Significance 3.38295 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 660982471 Lumi 358
+Mt 131.863GeV, mu 68.6716, met 63.3012, et/MET 1.08484, dPhi 3.13669
+Muon pt 68.6716 eta 0.738533 phi 0.0547873 monQuality 0.0129966 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 31 dz -0.00074125dxy 0.000893856 @@ momQuIN 0.0129966 TrkQual 1 dr_muPf -999 dr_chPf 3.25933 dpt_chPf -1.97123
+MET pt 63.3012 phi -3.09171 sumEt 1130.73 shiftedPt_JetEnup 63.9248 down 62.6778 Significance 7.06079 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661296498 Lumi 358
+Mt 118.58GeV, mu 68.656, met 53.6483, et/MET 1.27974, dPhi 2.71116
+Muon pt 68.656 eta 0.457088 phi 1.97795 monQuality 0.0116636 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 10 nMatchedStations 4 nValidMuonHits 47 dz -0.00233501dxy 0.000260987 @@ momQuIN 0.0116636 TrkQual 1 dr_muPf -999 dr_chPf 3.87847 dpt_chPf -1.97864
+MET pt 53.6483 phi -0.733208 sumEt 932.274 shiftedPt_JetEnup 53.2324 down 54.0688 Significance 7.79631 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661097213 Lumi 358
+Mt 91.3881GeV, mu 53.0794, met 40.0597, et/MET 1.32501, dPhi 2.87202
+Muon pt 53.0794 eta -2.2647 phi 1.69557 monQuality 0.0418076 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 18 dz 0.00403265dxy -0.000327234 @@ momQuIN 0.0418076 TrkQual 1 dr_muPf -999 dr_chPf 3.27387 dpt_chPf -1.96889
+MET pt 40.0597 phi -1.17645 sumEt 1097.23 shiftedPt_JetEnup 39.2961 down 40.8322 Significance 3.43885 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661566395 Lumi 358
+Mt 123.662GeV, mu 66.6126, met 60.248, et/MET 1.10564, dPhi 2.70268
+Muon pt 66.6126 eta 1.78849 phi -0.488553 monQuality 0.0213286 relTrkIsoR03 0 nValidPixelHits 4 nTrkLayers 16 nMatchedStations 3 nValidMuonHits 19 dz 0.000979946dxy -0.000178627 @@ momQuIN 0.0213286 TrkQual 1 dr_muPf -999 dr_chPf 4.76431 dpt_chPf -1.94674
+MET pt 60.248 phi 2.21412 sumEt 1290.71 shiftedPt_JetEnup 59.8643 down 60.6747 Significance 6.8836 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 660889668 Lumi 358
+Mt 98.4584GeV, mu 56.0407, met 43.6153, et/MET 1.28489, dPhi 2.95719
+Muon pt 56.0407 eta 1.89756 phi -2.9983 monQuality 0.0293605 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 15 nMatchedStations 3 nValidMuonHits 17 dz -0.00141722dxy 0.000340685 @@ momQuIN 0.0293605 TrkQual 1 dr_muPf -999 dr_chPf 4.09423 dpt_chPf -1.94578
+MET pt 43.6153 phi 0.327695 sumEt 1148.33 shiftedPt_JetEnup 43.1956 down 44.0353 Significance 4.16271 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662267574 Lumi 358
+Mt 102.383GeV, mu 62.238, met 42.2001, et/MET 1.47483, dPhi 3.04687
+Muon pt 62.238 eta 1.18784 phi -0.567078 monQuality 0.0167161 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 11 nMatchedStations 3 nValidMuonHits 19 dz 9.40551e-05dxy 8.82174e-06 @@ momQuIN 0.0167161 TrkQual 1 dr_muPf -999 dr_chPf 3.50968 dpt_chPf -1.95513
+MET pt 42.2001 phi 2.47979 sumEt 1418.85 shiftedPt_JetEnup 39.9976 down 44.4555 Significance 2.95809 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 660788041 Lumi 358
+Mt 135.941GeV, mu 57.6744, met 84.0288, et/MET 0.686365, dPhi 2.70596
+Muon pt 57.6744 eta -1.17671 phi 0.493021 monQuality 0.015523 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 9 nMatchedStations 3 nValidMuonHits 20 dz 0.00153905dxy 0.000364954 @@ momQuIN 0.015523 TrkQual 1 dr_muPf -999 dr_chPf 2.11486 dpt_chPf -1.98662
+MET pt 84.0288 phi -3.0842 sumEt 1532.47 shiftedPt_JetEnup 84.0308 down 84.0685 Significance 9.45266 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662251081 Lumi 358
+Mt 137.097GeV, mu 60.7228, met 78.08, et/MET 0.777699, dPhi 2.95234
+Muon pt 60.7228 eta 0.750778 phi 0.574313 monQuality 0.0119127 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 3 nValidMuonHits 28 dz -0.000621856dxy 4.79118e-05 @@ momQuIN 0.0119127 TrkQual 1 dr_muPf -999 dr_chPf 3.75361 dpt_chPf -1.97083
+MET pt 78.08 phi -2.37803 sumEt 1197.73 shiftedPt_JetEnup 77.6527 down 78.5074 Significance 12.1957 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661754870 Lumi 358
+Mt 106.339GeV, mu 57.1883, met 51.363, et/MET 1.11342, dPhi 2.75142
+Muon pt 57.1883 eta 2.24886 phi -1.31301 monQuality 0.0371256 relTrkIsoR03 0.0096378 nValidPixelHits 4 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 24 dz -0.00739014dxy 0.000470902 @@ momQuIN 0.0371256 TrkQual 1 dr_muPf -999 dr_chPf 4.20923 dpt_chPf -1.95165
+MET pt 51.363 phi 2.21875 sumEt 1169.22 shiftedPt_JetEnup 52.1027 down 50.649 Significance 4.87483 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 661742446 Lumi 358
+Mt 94.608GeV, mu 56.4539, met 40.7502, et/MET 1.38537, dPhi 2.80953
+Muon pt 56.4539 eta 0.348155 phi 0.517896 monQuality 0.0108245 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 46 dz -4.5735e-05dxy 0.00118358 @@ momQuIN 0.0108245 TrkQual 1 dr_muPf -999 dr_chPf 2.93821 dpt_chPf -1.98502
+MET pt 40.7502 phi -2.95576 sumEt 1198.58 shiftedPt_JetEnup 42.7581 down 38.8407 Significance 3.32101 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+
+
+==> RunH 282037 Event 663141605 Lumi 359
+Mt 98.8512GeV, mu 53.3558, met 46.318, et/MET 1.15195, dPhi 2.92661
+Muon pt 53.3558 eta 2.24682 phi 2.73249 monQuality 0.0504266 relTrkIsoR03 0 nValidPixelHits 1 nTrkLayers 8 nMatchedStations 4 nValidMuonHits 27 dz -0.0158474dxy -0.00134901 @@ momQuIN 0.0504266 TrkQual 1 dr_muPf -999 dr_chPf 4.64153 dpt_chPf -1.96783
+MET pt 46.318 phi -0.194127 sumEt 1543.67 shiftedPt_JetEnup 49.4963 down 43.1415 Significance 2.32408 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663520580 Lumi 359
+Mt 95.5366GeV, mu 53.2669, met 42.9559, et/MET 1.24004, dPhi 3.03646
+Muon pt 53.2669 eta 1.86439 phi -0.602738 monQuality 0.0267292 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 14 nMatchedStations 4 nValidMuonHits 12 dz -0.0269371dxy -0.00416171 @@ momQuIN 0.0267292 TrkQual 1 dr_muPf -999 dr_chPf 4.25915 dpt_chPf -1.94985
+MET pt 42.9559 phi 2.43372 sumEt 901.282 shiftedPt_JetEnup 45.0678 down 41.0222 Significance 5.03993 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663795228 Lumi 359
+Mt 114.369GeV, mu 56.5813, met 61.6561, et/MET 0.917691, dPhi 2.63566
+Muon pt 56.5813 eta -1.01418 phi -1.21838 monQuality 0.0239308 relTrkIsoR03 0.00305381 nValidPixelHits 2 nTrkLayers 9 nMatchedStations 4 nValidMuonHits 32 dz -0.00166305dxy -0.000208193 @@ momQuIN 0.0239308 TrkQual 1 dr_muPf -999 dr_chPf 1.96531 dpt_chPf -1.98211
+MET pt 61.6561 phi 1.41729 sumEt 604.613 shiftedPt_JetEnup 61.6561 down 61.6561 Significance 16.1999 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663137463 Lumi 359
+Mt 234.426GeV, mu 117.97, met 116.706, et/MET 1.01083, dPhi 3.04989
+Muon pt 117.97 eta 2.05761 phi -2.54031 monQuality 0.0427199 relTrkIsoR03 0 nValidPixelHits 4 nTrkLayers 13 nMatchedStations 4 nValidMuonHits 31 dz 0.00946032dxy -0.00122748 @@ momQuIN 0.0427199 TrkQual 1 dr_muPf 1.38272e-05 dr_chPf 4.54741 dpt_chPf -1.98483
+MET pt 116.706 phi 0.509579 sumEt 1189.01 shiftedPt_JetEnup 115.255 down 118.246 Significance 23.0392 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662869176 Lumi 359
+Mt 100.134GeV, mu 60.5801, met 41.3814, et/MET 1.46394, dPhi 3.12401
+Muon pt 60.5801 eta 1.97151 phi -2.12029 monQuality 0.0258279 relTrkIsoR03 0.0110258 nValidPixelHits 4 nTrkLayers 15 nMatchedStations 4 nValidMuonHits 20 dz -0.00125896dxy 0.000539516 @@ momQuIN 0.0258279 TrkQual 1 dr_muPf -999 dr_chPf 4.92111 dpt_chPf -1.97471
+MET pt 41.3814 phi 1.03889 sumEt 1088.36 shiftedPt_JetEnup 41.2559 down 41.5076 Significance 3.80464 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662509903 Lumi 359
+Mt 120.181GeV, mu 60.1821, met 61.041, et/MET 0.985929, dPhi 2.8796
+Muon pt 60.1821 eta 0.193265 phi -1.08562 monQuality 0.0104874 relTrkIsoR03 0.0775479 nValidPixelHits 3 nTrkLayers 13 nMatchedStations 2 nValidMuonHits 27 dz -0.00548206dxy -0.000333922 @@ momQuIN 0.0104874 TrkQual 1 dr_muPf -999 dr_chPf 1.78408 dpt_chPf -1.93949
+MET pt 61.041 phi 2.31796 sumEt 1567.72 shiftedPt_JetEnup 60.0903 down 62.126 Significance 4.48795 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662702384 Lumi 359
+Mt 134.487GeV, mu 70.1487, met 65.4544, et/MET 1.07172, dPhi 2.89433
+Muon pt 70.1487 eta 0.970574 phi 2.42893 monQuality 0.0179399 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 11 nMatchedStations 3 nValidMuonHits 29 dz 0.00425445dxy -0.000266904 @@ momQuIN 0.0179399 TrkQual 1 dr_muPf -999 dr_chPf 3.35406 dpt_chPf -1.98165
+MET pt 65.4544 phi -0.465399 sumEt 1313.16 shiftedPt_JetEnup 63.8312 down 67.0895 Significance 7.25158 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662667138 Lumi 359
+Mt 123.724GeV, mu 57.6056, met 72.5515, et/MET 0.793996, dPhi 2.5523
+Muon pt 57.6056 eta -1.60485 phi 1.38816 monQuality 0.0218375 relTrkIsoR03 0.030227 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 3 nValidMuonHits 14 dz -0.00590493dxy -0.00100768 @@ momQuIN 0.0218375 TrkQual 1 dr_muPf -999 dr_chPf 2.07093 dpt_chPf -1.98493
+MET pt 72.5515 phi -2.34273 sumEt 658.756 shiftedPt_JetEnup 72.8632 down 72.2405 Significance 17.6686 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662299968 Lumi 359
+Mt 104.5GeV, mu 53.1877, met 56.0379, et/MET 0.949139, dPhi 2.55336
+Muon pt 53.1877 eta 1.92731 phi -0.3431 monQuality 0.0319313 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 13 nMatchedStations 3 nValidMuonHits 17 dz 0.0136029dxy -0.00117911 @@ momQuIN 0.0319313 TrkQual 1 dr_muPf -999 dr_chPf 3.72071 dpt_chPf -1.95257
+MET pt 56.0379 phi 2.21026 sumEt 1097.07 shiftedPt_JetEnup 57.0952 down 54.9806 Significance 6.46409 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663793712 Lumi 359
+Mt 111.511GeV, mu 55.8635, met 55.7457, et/MET 1.00211, dPhi 3.05767
+Muon pt 55.8635 eta 0.595257 phi 1.34392 monQuality 0.0127881 relTrkIsoR03 0.00485447 nValidPixelHits 2 nTrkLayers 10 nMatchedStations 2 nValidMuonHits 23 dz 0.00096251dxy -0.000449724 @@ momQuIN 0.0127881 TrkQual 1 dr_muPf -999 dr_chPf 2.37815 dpt_chPf -1.98586
+MET pt 55.7457 phi -1.71374 sumEt 934.233 shiftedPt_JetEnup 55.7457 down 55.7457 Significance 8.43015 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662704526 Lumi 359
+Mt 131.041GeV, mu 53.2647, met 82.5985, et/MET 0.644863, dPhi 2.82895
+Muon pt 53.2647 eta 0.852782 phi 0.0807108 monQuality 0.0137905 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 2 nValidMuonHits 26 dz -0.00663249dxy -0.00057607 @@ momQuIN 0.0137905 TrkQual 1 dr_muPf -999 dr_chPf 3.07674 dpt_chPf -1.96855
+MET pt 82.5985 phi -2.74824 sumEt 1674.31 shiftedPt_JetEnup 84.4842 down 80.7383 Significance 8.71664 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662846039 Lumi 359
+Mt 142.325GeV, mu 66.7371, met 80.2303, et/MET 0.83182, dPhi 2.67165
+Muon pt 66.7371 eta 2.12703 phi 1.63113 monQuality 0.0330913 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 11 dz -0.00359207dxy 0.00118898 @@ momQuIN 0.0330913 TrkQual 1 dr_muPf -999 dr_chPf 4.30311 dpt_chPf -1.94878
+MET pt 80.2303 phi -1.98041 sumEt 1136.66 shiftedPt_JetEnup 80.2535 down 80.2412 Significance 14.1921 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663812633 Lumi 359
+Mt 119.47GeV, mu 55.1019, met 71.7178, et/MET 0.768315, dPhi 2.50798
+Muon pt 55.1019 eta 2.23075 phi 2.40703 monQuality 0.0400888 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 13 nMatchedStations 4 nValidMuonHits 18 dz 0.00108208dxy 0.000274925 @@ momQuIN 0.0400888 TrkQual 1 dr_muPf -999 dr_chPf 4.96728 dpt_chPf -1.96886
+MET pt 71.7178 phi -0.100949 sumEt 1043.15 shiftedPt_JetEnup 71.1676 down 72.2697 Significance 11.7281 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663681018 Lumi 359
+Mt 130.345GeV, mu 63.0565, met 67.4538, et/MET 0.93481, dPhi 3.06681
+Muon pt 63.0565 eta 0.907785 phi -0.306041 monQuality 0.0143683 relTrkIsoR03 0.0107074 nValidPixelHits 3 nTrkLayers 11 nMatchedStations 2 nValidMuonHits 16 dz 0.00358018dxy -0.000120937 @@ momQuIN 0.0143683 TrkQual 1 dr_muPf -999 dr_chPf 3.03886 dpt_chPf -1.98772
+MET pt 67.4538 phi 2.76077 sumEt 1163.27 shiftedPt_JetEnup 67.0825 down 67.8276 Significance 9.98759 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662591255 Lumi 359
+Mt 181.9GeV, mu 89.8583, met 93.8681, et/MET 0.957282, dPhi 2.86274
+Muon pt 89.8583 eta -1.88078 phi 1.65832 monQuality 0.0293474 relTrkIsoR03 0 nValidPixelHits 4 nTrkLayers 15 nMatchedStations 4 nValidMuonHits 18 dz 0.0011584dxy -4.97372e-05 @@ momQuIN 0.0293474 TrkQual 1 dr_muPf -999 dr_chPf 0.278137 dpt_chPf -1.97752
+MET pt 93.8681 phi -1.20442 sumEt 615.412 shiftedPt_JetEnup 93.8681 down 93.8681 Significance 39.7777 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663453821 Lumi 359
+Mt 130.093GeV, mu 70.4142, met 60.3534, et/MET 1.1667, dPhi 3.00887
+Muon pt 70.4142 eta 1.888 phi 1.01034 monQuality 0.0287014 relTrkIsoR03 0.00889407 nValidPixelHits 5 nTrkLayers 16 nMatchedStations 4 nValidMuonHits 12 dz 0.00159316dxy 9.97773e-05 @@ momQuIN 0.0287014 TrkQual 1 dr_muPf -999 dr_chPf 4.79268 dpt_chPf -1.96972
+MET pt 60.3534 phi -2.26397 sumEt 1109.16 shiftedPt_JetEnup 59.237 down 61.4736 Significance 6.89088 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662354829 Lumi 359
+Mt 110.81GeV, mu 54.8444, met 59.5848, et/MET 0.920443, dPhi 2.64395
+Muon pt 54.8444 eta 1.06183 phi 1.10836 monQuality 0.0159567 relTrkIsoR03 0.0101394 nValidPixelHits 2 nTrkLayers 10 nMatchedStations 3 nValidMuonHits 19 dz 0.00505748dxy 0.000541526 @@ momQuIN 0.0159567 TrkQual 1 dr_muPf -999 dr_chPf 3.41067 dpt_chPf -1.9788
+MET pt 59.5848 phi -2.53087 sumEt 822.303 shiftedPt_JetEnup 61.578 down 57.5942 Significance 10.139 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663692188 Lumi 359
+Mt 125.024GeV, mu 64.7159, met 61.0783, et/MET 1.05956, dPhi 2.92786
+Muon pt 64.7159 eta -1.96678 phi 2.18805 monQuality 0.0294227 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 15 nMatchedStations 4 nValidMuonHits 23 dz -0.000668171dxy 0.000249336 @@ momQuIN 0.0294227 TrkQual 1 dr_muPf -999 dr_chPf 3.1219 dpt_chPf -1.96859
+MET pt 61.0783 phi -0.739809 sumEt 1390.77 shiftedPt_JetEnup 60.3763 down 61.7842 Significance 5.06073 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662313047 Lumi 359
+Mt 133.262GeV, mu 64.8345, met 68.7576, et/MET 0.942942, dPhi 3.01371
+Muon pt 64.8345 eta 1.59266 phi -3.0336 monQuality 0.0247056 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 14 nMatchedStations 3 nValidMuonHits 45 dz -0.0226285dxy -0.00204474 @@ momQuIN 0.0247056 TrkQual 1 dr_muPf -999 dr_chPf 4.53152 dpt_chPf -1.94322
+MET pt 68.7576 phi 0.23588 sumEt 1641.67 shiftedPt_JetEnup 72.1273 down 65.4011 Significance 7.40211 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662804323 Lumi 359
+Mt 110.761GeV, mu 58.3467, met 52.5811, et/MET 1.10965, dPhi 3.10631
+Muon pt 58.3467 eta -2.24526 phi -2.77237 monQuality 0.0462342 relTrkIsoR03 0.0188687 nValidPixelHits 4 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 24 dz -0.00210805dxy -0.00088171 @@ momQuIN 0.0462342 TrkQual 1 dr_muPf -999 dr_chPf 3.20839 dpt_chPf -1.96761
+MET pt 52.5811 phi 0.333947 sumEt 549.701 shiftedPt_JetEnup 52.5811 down 52.5811 Significance 13.2335 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662496559 Lumi 359
+Mt 107.89GeV, mu 61.4745, met 49.348, et/MET 1.24573, dPhi 2.7351
+Muon pt 61.4745 eta 0.278923 phi -2.68556 monQuality 0.0111132 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 10 nMatchedStations 3 nValidMuonHits 28 dz -0.0050036dxy -0.00058302 @@ momQuIN 0.0111132 TrkQual 1 dr_muPf -999 dr_chPf 2.67409 dpt_chPf -1.95505
+MET pt 49.348 phi 0.0495404 sumEt 777.927 shiftedPt_JetEnup 47.0703 down 51.6783 Significance 7.64494 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662759531 Lumi 359
+Mt 129.981GeV, mu 64.7314, met 66.6047, et/MET 0.971875, dPhi 2.85542
+Muon pt 64.7314 eta 1.26422 phi -2.44371 monQuality 0.0209842 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 11 nMatchedStations 4 nValidMuonHits 25 dz 0.00341818dxy -0.000701709 @@ momQuIN 0.0209842 TrkQual 1 dr_muPf -999 dr_chPf 3.81444 dpt_chPf -1.96949
+MET pt 66.6047 phi 0.984061 sumEt 805.981 shiftedPt_JetEnup 66.1739 down 67.0427 Significance 14.4012 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662973378 Lumi 359
+Mt 101.243GeV, mu 53.5687, met 48.0001, et/MET 1.11601, dPhi 3.02489
+Muon pt 53.5687 eta 0.589825 phi -2.01771 monQuality 0.011843 relTrkIsoR03 0.017971 nValidPixelHits 2 nTrkLayers 12 nMatchedStations 3 nValidMuonHits 32 dz -0.000641693dxy 0.000552587 @@ momQuIN 0.011843 TrkQual 1 dr_muPf -999 dr_chPf 2.85688 dpt_chPf -1.97182
+MET pt 48.0001 phi 1.24058 sumEt 1298.82 shiftedPt_JetEnup 48.3397 down 47.6649 Significance 4.5485 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663713559 Lumi 359
+Mt 127.547GeV, mu 65.6323, met 62.1808, et/MET 1.05551, dPhi 3.02436
+Muon pt 65.6323 eta -1.44701 phi 2.35607 monQuality 0.0203687 relTrkIsoR03 0 nValidPixelHits 2 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 26 dz -0.00473319dxy -0.000719021 @@ momQuIN 0.0203687 TrkQual 1 dr_muPf -999 dr_chPf 1.10119 dpt_chPf -1.95446
+MET pt 62.1808 phi -0.668293 sumEt 1537.93 shiftedPt_JetEnup 69.9334 down 55.1277 Significance 6.15249 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662539924 Lumi 359
+Mt 99.8509GeV, mu 59.8374, met 44.1155, et/MET 1.35638, dPhi 2.6648
+Muon pt 59.8374 eta 1.32053 phi -2.02824 monQuality 0.0200336 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 12 nMatchedStations 4 nValidMuonHits 26 dz 0.00117848dxy -0.000236354 @@ momQuIN 0.0200336 TrkQual 1 dr_muPf -999 dr_chPf 3.26398 dpt_chPf -1.9688
+MET pt 44.1155 phi 0.636557 sumEt 833.534 shiftedPt_JetEnup 43.6615 down 44.5707 Significance 5.96816 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662624662 Lumi 359
+Mt 141.381GeV, mu 65.2352, met 76.9897, et/MET 0.847323, dPhi 2.9996
+Muon pt 65.2352 eta 1.98208 phi 2.12707 monQuality 0.0312748 relTrkIsoR03 0 nValidPixelHits 5 nTrkLayers 15 nMatchedStations 3 nValidMuonHits 17 dz 0.00134827dxy -0.00094557 @@ momQuIN 0.0312748 TrkQual 1 dr_muPf -999 dr_chPf 3.57461 dpt_chPf -1.95325
+MET pt 76.9897 phi -1.15652 sumEt 1110.52 shiftedPt_JetEnup 78.1331 down 75.891 Significance 11.9903 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 663207220 Lumi 359
+Mt 134.167GeV, mu 59.8844, met 79.5593, et/MET 0.752701, dPhi 2.66622
+Muon pt 59.8844 eta 2.38487 phi 2.28318 monQuality 0.0761234 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 9 nMatchedStations 4 nValidMuonHits 16 dz -0.00670119dxy 0.00179206 @@ momQuIN 0.0761234 TrkQual 1 dr_muPf -999 dr_chPf 4.13775 dpt_chPf -1.97546
+MET pt 79.5593 phi -1.33379 sumEt 1098.26 shiftedPt_JetEnup 77.9708 down 81.1672 Significance 12.8581 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662841064 Lumi 359
+Mt 112.771GeV, mu 59.1165, met 56.0768, et/MET 1.05421, dPhi 2.73408
+Muon pt 59.1165 eta -0.481041 phi -0.376207 monQuality 0.011123 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 13 nMatchedStations 4 nValidMuonHits 42 dz 0.000895562dxy 0.000214369 @@ momQuIN 0.011123 TrkQual 1 dr_muPf -999 dr_chPf 1.64459 dpt_chPf -1.96681
+MET pt 56.0768 phi 2.35787 sumEt 2139.78 shiftedPt_JetEnup 55.807 down 56.4612 Significance 3.48043 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662847956 Lumi 359
+Mt 109.646GeV, mu 56.988, met 55.424, et/MET 1.02822, dPhi 2.6979
+Muon pt 56.988 eta 1.815 phi 0.293416 monQuality 0.0220349 relTrkIsoR03 0.0321457 nValidPixelHits 3 nTrkLayers 13 nMatchedStations 3 nValidMuonHits 17 dz -0.000572581dxy -0.000721082 @@ momQuIN 0.0220349 TrkQual 1 dr_muPf -999 dr_chPf 4.59855 dpt_chPf -1.9599
+MET pt 55.424 phi -2.40448 sumEt 1539.81 shiftedPt_JetEnup 51.9094 down 59.5528 Significance 5.11543 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000
+==> RunH 282037 Event 662300115 Lumi 359
+Mt 115.325GeV, mu 56.2559, met 64.1461, et/MET 0.876996, dPhi 2.57328
+Muon pt 56.2559 eta 0.615736 phi -2.56742 monQuality 0.0104975 relTrkIsoR03 0 nValidPixelHits 3 nTrkLayers 13 nMatchedStations 3 nValidMuonHits 35 dz -0.000743967dxy -0.000638977 @@ momQuIN 0.0104975 TrkQual 1 dr_muPf -999 dr_chPf 3.73707 dpt_chPf -1.98254
+MET pt 64.1461 phi 0.00586081 sumEt 1593.04 shiftedPt_JetEnup 65.7407 down 62.5524 Significance 5.48337 isNotBadPFMu 1 isNotBadChCand 1 IsCorrectedBadGlobalMuon 0 IsCorrectedDuplicateMuon 1 ECALSlew :IsDuplicateECAL:IsNotRepHits= IsBadECALSlew 000

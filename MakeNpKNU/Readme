@@ -1,0 +1,11 @@
+export LD_LIBRARY_PATH=${CMSSW_BASE}/src/MakeNpKNU/ProdNpKNU/src/:${LD_LIBRARY_PATH}
+# ${CMSSW_BASE}/src/MakeNpKNU/ProdNpKNU/src/libNpKNU.so
+g++ `root-config --cflags` `root-config --libs` MakeEff_EB_17.cc -L${CMSSW_BASE}/src/MakeNpKNU/ProdNpKNU/src -lNpKNU  -o MakeEff_EB_17.exe
+g++ `root-config --cflags` `root-config --libs` MakeEff_EE_17.cc -L${CMSSW_BASE}/src/MakeNpKNU/ProdNpKNU/src -lNpKNU  -o MakeEff_EE_17.exe
+
+g++ `root-config --cflags` `root-config --libs`  MakeWpHist_data_16.cc -L${CMSSW_BASE}/src/MakeNpKNU/ProdNpKNU/src -lNpKNU  -o MakeWpHist_data_16.exe
+
+#uberftp cluster142.knu.ac.kr "put -r ./ntuples/* /pnfs/knu.ac.kr/data/cms/store/user/jelee/2017mu/" >& upload.log &
+#uberftp cluster142.knu.ac.kr "ls /pnfs/knu.ac.kr/data/cms/store/user/jelee/2017mu/"
+#dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/jelee/2017mu/ntNpKNUdata_RunC_new.root
+

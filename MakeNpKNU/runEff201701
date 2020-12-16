@@ -1,0 +1,44 @@
+#exe                   type lumi  Xsec           nGenEvt            InputFile                   outputFile                      LogFile
+##./MakeEff_EB_v1.exe 0   36.8   61526.7     24120319  ./ntuples/ntNpKNUmc_WJetsToLNu_amcatnloFXFX_PUMoriond17.root  hEff_EB_MC_WJets_amc.root  >& leff_EB_WJet.log &
+#./MakeEff_EB_v1.exe 0   36.8   831.76      77229341  ./ntuples/ntNpKNUmc_TT_PUMoriond17.root                       hEff_EB_MC_TT.root         >& leff_EB_TT.log &
+#./MakeEff_EB_v3.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunB_new.root   hEff_EB_Data_RunB_v3.root >& leffcheck2_EB_PeriodB.log & 
+##./MakeEff_EB_v1.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunC_new.root   hEff_EB_Data_RunC.root >& leff_EB_PeriodC.log & 
+#./MakeEff_EE_v3.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunD_new.root   hEff_EE_Data_RunD_v3.root >& leff_EE_PeriodD_v3.log & 
+##./MakeEff_EB_v1.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunE_new.root   hEff_EB_Data_RunE.root >& leff_EB_PeriodE.log & 
+##./MakeEff_EB_v1.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunF_new.root   hEff_EB_Data_RunF.root >& leff_EB_PeriodF.log & 
+#./MakeEff_EB_v1.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunG_new.root   hEff_EB_Data_RunG.root >& leff_EB_PeriodG.log & 
+#./MakeEff_EB_v3.exe  1  1    1             1     ./ntuples/ntNpKNUdata_RunH2_new.root  hEff_EB_Data_RunH2_v3.root>& leff_EB_PeriodH2_v3.log & 
+#./MakeEff_EB_v3.exe  1    1    1             1     ./ntuples/ntNpKNUdata_RunH3_new.root  hEff_EB_Data_RunH3_v3.root>& leff_EB_PeriodH3_v3.log & 
+#./MakeEff_EE_v3.exe  1    1    1             1     ./ntuples/ntNpKNUdata_RunH3_new.root  hEff_EE_Data_RunH3_v3.root>& leff_EE_PeriodH3_v3.log & 
+
+#./MakeEff_EB_v3.exe 0 36.8  435.2369   9000000   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-200To400_PUMoriond17_0.root  hEff_EB_MC_WJet_HT-200_0.root >& leff_EB_WJet_HT-200_0.log &
+#./MakeEff_EB_v3.exe 0 36.8  435.2369  10914590   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-200To400_PUMoriond17_1.root  hEff_EB_MC_WJet_HT-200_1.root >& leff_EB_WJet_HT-200_1.log &
+#./MakeEff_EB_v3.exe 0 36.8  59.181     5796237   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-400To600_PUMoriond17.root    hEff_EB_MC_WJet_HT-400.root >& leff_EB_WJet_HT-400.log &
+#./MakeEff_EB_v3.exe 0 36.8  14.5805    7000000   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-600To800_PUMoriond17_0.root  hEff_EB_MC_WJet_HT-600_0.root >& leff_EB_WJet_HT-600_0.log &
+#./MakeEff_EB_v3.exe 0 36.8  14.5805    7908339   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-600To800_PUMoriond17_1.root  hEff_EB_MC_WJet_HT-600_1.root >& leff_EB_WJet_HT-600_1.log &
+#./MakeEff_EB_v3.exe 0 36.8  6.6562     6200954   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-800To1200_PUMoriond17.root   hEff_EB_MC_WJet_HT-800.root >& leff_EB_WJet_HT-800.log &
+#./MakeEff_EB_v3.exe 0 36.8  1.608089   6627909   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-1200To2500_PUMoriond17.root  hEff_EB_MC_WJet_HT-1200_v3.root >& leff_EB_WJet_HT-1200_v3.log &
+#./MakeEff_EB_v3.exe 0 36.8  0.03891359 2384260   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-2500ToInf_PUMoriond17.root   hEff_EB_MC_WJet_HT-2500_v3.root >& leff_EB_WJet_HT-2500_v3.log &
+
+#./MakeEff_EE_v3.exe 0 36.8  435.2369   9000000   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-200To400_PUMoriond17_0.root  hEff_EE_MC_WJet_HT-200_0_v3.root >& leff_EE_WJet_HT-200_0_v3.log &
+#./MakeEff_EE_v3.exe 0 36.8  435.2369  10914590   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-200To400_PUMoriond17_1.root  hEff_EE_MC_WJet_HT-200_1_v3.root >& leff_EE_WJet_HT-200_1_v3.log &
+#./MakeEff_EE_v3.exe 0 36.8  59.181     5796237   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-400To600_PUMoriond17.root    hEff_EE_MC_WJet_HT-400_v3.root >& leff_EE_WJet_HT-400_v3.log &
+#./MakeEff_EE_v3.exe 0 36.8  14.5805    7000000   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-600To800_PUMoriond17_0.root  hEff_EE_MC_WJet_HT-600_0_v3.root >& leff_EE_WJet_HT-600_0_v3.log &
+#./MakeEff_EE_v3.exe 0 36.8  14.5805    7908339   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-600To800_PUMoriond17_1.root  hEff_EE_MC_WJet_HT-600_1_v3.root >& leff_EE_WJet_HT-600_1_v3.log &
+#./MakeEff_EE_v3.exe 0 36.8  6.6562     6200954   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-800To1200_PUMoriond17.root   hEff_EE_MC_WJet_HT-800_v3.root >& leff_EE_WJet_HT-800_v3.log &
+##./MakeEff_EE_v3.exe 0 36.8  1.608089   6627909   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-1200To2500_PUMoriond17.root  hEff_EE_MC_WJet_HT-1200_v3.root >& leff_EE_WJet_HT-1200_v3.log &
+#./MakeEff_EE_v3.exe 0 36.8  0.03891359 2384260   ./ntuples/ntNpKNUmc_WJetsToLNu_HT-2500ToInf_PUMoriond17.root   hEff_EE_MC_WJet_HT-2500_v3.root >& leff_EE_WJet_HT-2500_v3.log &
+#
+
+
+##./MakeEff_EE_v1.exe 0    36.8 61526.7     24120319  ./ntuples/ntNpKNUmc_WJetsToLNu_amcatnloFXFX_PUMoriond17.root  hEff_EE_MC_WJets_amc.root  >& leff_EE_WJet.log &
+#./MakeEff_EE_v1.exe 0   36.8  831.76      77229341  ./ntuples/ntNpKNUmc_TT_PUMoriond17.root                       hEff_EE_MC_TT.root         >& leff_EE_TT.log &
+#./MakeEff_EE_v1.exe  1  1         1             1     ./ntuples/ntNpKNUdata_RunB_new.root   hEff_EE_Data_RunB.root >& leff_EE_PeriodB.log & 
+#./MakeEff_EE_v1.exe  1  1         1             1     ./ntuples/ntNpKNUdata_RunC_new.root   hEff_EE_Data_RunC.root >& leff_EE_PeriodC.log & 
+#./MakeEff_EE_v1.exe  1  1         1             1     ./ntuples/ntNpKNUdata_RunD_new.root   hEff_EE_Data_RunD.root >& leff_EE_PeriodD.log & 
+#./MakeEff_EE_v1.exe  1   1        1             1     ./ntuples/ntNpKNUdata_RunE_new.root   hEff_EE_Data_RunE.root >& leff_EE_PeriodE.log & 
+##./MakeEff_EE_v1.exe  1   1        1             1     ./ntuples/ntNpKNUdata_RunF_new.root   hEff_EE_Data_RunF.root >& leff_EE_PeriodF.log & 
+#./MakeEff_EE_v1.exe  1  1         1             1     ./ntuples/ntNpKNUdata_RunG_new.root   hEff_EE_Data_RunG.root >& leff_EE_PeriodG.log & 
+#./MakeEff_EE_v1.exe  1  1         1             1     ./ntuples/ntNpKNUdata_RunH2_new.root  hEff_EE_Data_RunH2.root>& leff_EE_PeriodH2.log & 
+#./MakeEff_EE_v1.exe  1 1        1    1             1     ./ntuples/ntNpKNUdata_RunH3_new.root  hEff_EE_Data_RunH3.root>& leff_EE_PeriodH3.log & 
+

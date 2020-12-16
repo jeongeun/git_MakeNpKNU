@@ -1,0 +1,13 @@
+executable = runAllEff_18Novmc.sh
+#executable = runAllEff_18Nov.sh
+#executable = runWp.sh
+universe = vanilla
+output   = condorLog/hmee_$(Process).out
+error    = condorLog/hmee_$(Process).err
+log      = /dev/null
+should_transfer_files = yes
+#transfer_input_files = Test_trkIso_mc.exe #, libNpKNU.so
+when_to_transfer_output = ON_EXIT
+transfer_output_files = condorOut
+arguments =  $(Process)
+queue 9 
